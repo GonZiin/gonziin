@@ -45,7 +45,7 @@
 
 ### 🌐Connect With Me
 📫 [goncalogomespessoal@outlook.pt](mailto:goncalogomespessoal@outlook.pt)  
-🔗 [LinkedIn](https://linkedin.com/in/goncalogomes)
+🔗 [LinkedIn]([https://linkedin.com/in/goncalogomes](https://www.linkedin.com/in/gon%C3%A7alo-gomes-729aa330a/))
 
 ---
 
