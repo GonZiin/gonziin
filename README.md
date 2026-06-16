@@ -34,15 +34,6 @@
 
 ---
 
-### GitHub Stats
-<div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GonZiin)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
-
 ### 🌐Connect With Me
 📫 [goncalogomespessoal@outlook.pt](mailto:goncalogomespessoal@outlook.pt)  
 🔗 [LinkedIn]([https://linkedin.com/in/goncalogomes](https://www.linkedin.com/in/gon%C3%A7alo-gomes-729aa330a/))
